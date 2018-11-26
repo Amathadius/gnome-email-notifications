@@ -19,11 +19,11 @@ msgstr ""
 
 #: extension.js:108
 msgid "No email accounts found"
-msgstr ""
+msgstr "Aucun compte de messagerie trouvé"
 
 #: extension.js:119
 msgid "Install gir1.2-goa"
-msgstr ""
+msgstr "Installer gir1.2-goa"
 
 #: MailClientFocuser.js:46
 #, fuzzy
@@ -44,4 +44,4 @@ msgstr ""
 
 #: prefs.js:63
 msgid "Selects the correct Gmail account if more than one is present"
-msgstr ""
+msgstr "Sélectionner le bon compte Gmail s'il y a plusieurs compte présent"
